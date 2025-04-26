@@ -1,0 +1,27 @@
+# Node modules (libraries you install)
+node_modules/
+
+# Build output (compiled code)
+dist/
+build/
+
+# Local environment variables (secret API keys, etc.)
+.env
+
+# VS Code settings (optional, keeps your project clean for others)
+.vscode/
+
+# Log files
+*.log
+
+# Mac system files (hidden files that sometimes appear)
+.DS_Store
+
+# Coverage reports (if you ever do testing)
+coverage/
+
+# Cache files (optional, keeps repo clean)
+.cache/
+
+# Temporary files
+*.tmp
